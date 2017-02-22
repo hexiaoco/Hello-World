@@ -8,3 +8,6 @@ step3: Commit changes.
 
 11:07
 the second edit.
+
+11:17
+the third edit.
